@@ -5,7 +5,7 @@ This repo contains the code to reproduce the experimental results of our paper [
 
 [Technical report here](https://arxiv.org/abs/2006.092294). 
 
-Authors: [Matteo Tiezzi](https://mtiezzi.github.io/), [Stefano Melacci](http://sailab.diism.unisi.it/people/stefano-melacci/), [Alessandro Betti](http://sailab.diism.unisi.it/people/alessandro-betti/), [Marco Gori](http://sailab.diism.unisi.it/people/marco-gori/)
+Authors: [Matteo Tiezzi](https://mtiezzi.github.io/), [Stefano Melacci](https://sailab.diism.unisi.it/people/stefano-melacci/), [Alessandro Betti](https://sailab.diism.unisi.it/people/alessandro-betti/), [Marco Gori](https://sailab.diism.unisi.it/people/marco-gori/)
 
 
 ## Requirements
