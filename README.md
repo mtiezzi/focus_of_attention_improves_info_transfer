@@ -1,6 +1,6 @@
 # Focus of Attention Improves Information Transfer in Visual Features
 
-This repo contains the code to reproduce the experimental results of our paper [Focus of Attention Improves Information Transfer in Visual Features](https://arxiv.org/abs/2006.09229), accepted for publication at NeuriPS2020.
+This repo contains the code to reproduce the experimental results of our paper [Focus of Attention Improves Information Transfer in Visual Features](https://arxiv.org/abs/2006.09229), accepted for publication at NeurIPS2020.
 
 
 [Technical report here](https://arxiv.org/abs/2006.092294). 
