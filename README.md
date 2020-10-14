@@ -6,9 +6,16 @@ This repo contains the code to reproduce the experimental results of our [Focus 
 [Technical report here](https://arxiv.org/abs/2006.092294). 
 
 
-## HOW TO RUN AN EXPERIMENT
+## Requirements
+To install the requirements, use the following code:
 
-The script *runner_mi.py* allows you to run a batch of experiments on a visual
+```
+pip install -r requirements.txt
+```
+
+## How to Run an Experiment
+
+The script `runner_mi.py` allows you to run a batch of experiments on a visual
 stream of the paper using all the probability density functions (UNI,FOA,FOAW).
 
 Parameters name are the same that can be found in the paper. You can specify,
