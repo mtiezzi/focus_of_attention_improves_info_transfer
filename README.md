@@ -66,6 +66,7 @@ optional arguments:
       -rnd, --rnd           random foa scanpath flag
 ```
 
+
 ### GETTING THE MEASURED MUTUAL INFORMATION VALUES IN THE UNI,FOA,FOAW CASES
 
 The statistics of each experiment of the batch are stored in a specific folder.
