@@ -23,7 +23,7 @@ stream of the paper using all the probability density functions (UNI,FOA,FOAW).
 Parameters name are the same that can be found in the paper. You can specify,
 as argument by command line, specific values for the hyperparameters
 (`lambda_c, lambda_e, lambda_s, zeta_s`), choose the architecture (argument
-`arch`, choice is among `S, D,DL`) and the video stream to be processed
+`arch`, choice is among `S, D, DL`) and the video stream to be processed
 (argument `-stream`, choice is among `sparsemnist,carpark,call`).
 
 Moreover, by default the SOTA FOA predictor is used to predict the scanpath.
