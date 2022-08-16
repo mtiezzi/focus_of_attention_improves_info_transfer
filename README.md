@@ -3,7 +3,8 @@
 This repo contains the code to reproduce the experimental results of our paper [Focus of Attention Improves Information Transfer in Visual Features](https://arxiv.org/abs/2006.09229), accepted for publication at NeurIPS2020.
 
 
-[Technical report here](https://arxiv.org/abs/2006.092294). 
+[Technical report here](https://arxiv.org/abs/2006.09229). 
+[NeurIPS Proceedings](https://proceedings.neurips.cc/paper/2020/hash/fc2dc7d20994a777cfd5e6de734fe254-Abstract.html)
 
 Authors: [Matteo Tiezzi](https://mtiezzi.github.io/), [Stefano Melacci](https://sailab.diism.unisi.it/people/stefano-melacci/), [Alessandro Betti](https://sailab.diism.unisi.it/people/alessandro-betti/), [Marco Maggini](https://sailab.diism.unisi.it/marco-maggini/), [Marco Gori](https://sailab.diism.unisi.it/people/marco-gori/)
 
